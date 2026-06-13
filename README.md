@@ -241,6 +241,6 @@ Promover a aprendizagem de forma lúdica e interativa, mostrando como:
 
 ### 🚁 Drone do Melado – O Segredo de Capanema
 
-**Desenvolvido por Jean Ceconi**
+**Desenvolvido por Miguel**
 **Capanema – Paraná – Brasil 🇧🇷**
 
